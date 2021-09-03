@@ -5,7 +5,10 @@
 This project allows the user to save multiple notes. Each note has a title and text area fields that the user can edit. You can also delete old notes when you are done. 
 
 ## Deployed URL: 
+https://enigmatic-journey-98957.herokuapp.com/
 
+## Github Repo: 
+https://github.com/AmandaC0022/Note-Taker
 
 ## Table of Contents 
 1. [Installation](#installation)
