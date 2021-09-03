@@ -10,6 +10,9 @@ https://enigmatic-journey-98957.herokuapp.com/
 ## Github Repo: 
 https://github.com/AmandaC0022/Note-Taker
 
+## Screenshot: 
+![Screenshot of Note Page](Screenshot-Note-Taker.png)
+
 ## Table of Contents 
 1. [Installation](#installation)
 2. [Usage](#usage)
