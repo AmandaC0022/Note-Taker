@@ -29,3 +29,7 @@ app.get('/notes', (req, res) =>
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
+
+//Heroku Notes
+//To login: heroku auth:login
+// Once you finish the project, login into heroku. then heroku create. then git push heroku main
